@@ -9,7 +9,7 @@
 **👋 About Me**<br>
 <br>I’m a **Software Engineer with 2+ years of experience** building **production-grade backend and AI systems** across cloud and on-prem environments. My work focuses on **scalable distributed systems**, **automation**, and **reliable data & ML pipelines**.<br>
 <br>I’ve shipped systems handling **high-throughput workloads**, designed **GenAI applications from PoC to production**, and improved **observability, reliability, and deployment workflows** using modern cloud-native tooling.<br>
-<br>Currently pursuing my **MS in Software Engineering Systems at Northeastern University (Boston)** and actively seeking **Software Engineer / Backend / GenAI roles**.<br><br>
+<br>Currently pursuing my **MS in Software Engineering Systems at Northeastern University (Boston)** and actively seeking **full-time Software Engineer / Backend / GenAI roles**.<br><br>
 🧠 Engineering Focus<br>
 - Focusing on **software engineering** roles<br>
 - Designing **scalable  systems** and microservices<br>
@@ -88,7 +88,8 @@
 🧠 Jesse Livermore GenAI Mentor Bot<br>**GenAI RAG System + Strategy Backtesting Engine**<br>
 <br>**Tech:** Python, Streamlit, FAISS, MiniLM, FLAN-T5, Pandas, NumPy  <br>
 - Built a **Retrieval-Augmented Generation (RAG)** chatbot trained on **624 curated Q&A records**<br>
-- Implemented **vector-based retrieval** with FAISS and persona-aware generation<br>- Designed **low-latency backend pipelines** for retrieval, ranking, and response generation<br>
+- Implemented **vector-based retrieval** with FAISS and persona-aware generation<br>
+- Designed **low-latency backend pipelines** for retrieval, ranking, and response generation<br>
 - Integrated **real-time analytics and backtesting**, achieving ~**3× strategy performance** vs baseline<br>
 - Modular GenAI backend with independently deployable services<br>
 <br>🔗 Repo: https://github.com/Krupa-lakshmana/GenAI-Mentor-Bot<br><br>
