@@ -2,7 +2,7 @@
 **Engineering with curiosity, clarity, and scale**<br>
 <br>🔎 Software Engineer | AIML • GenAI • Cloud Systems<br>
 🎓 MS in Software Engineering Systems @ Northeastern University, Boston<br>
-<br>💼 LinkedIn "https://www.linkedin.com/in/krupa-lakshmana-a420a225b/"><br>
+<br>💼 LinkedIn "[https://www.linkedin.com/in/krupa-lakshmana-a420a225b/](https://www.linkedin.com/in/krupa-lakshmana-a420a225b/)"><br>
 🌐 Portfolio "https://krupa-portfolio.vercel.app/"><br>
 📧 Email "mailto:lakshmana.k@northeastern.edu"><br><br>
 
