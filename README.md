@@ -1,9 +1,89 @@
 # 💫 About Me:
 Krupa Lakshmana<br>
-<br>Software Engineer | AIML • GenAI • Cloud Systems<br>
-MS in Software Engineering Systems @ Northeastern University (Boston)<br>
-<br>"https://www.linkedin.com/in/krupa-lakshmana-a420a225b/">LinkedIn<br>
-"https://krupa-portfolio.vercel.app/">Portfolio<br>"mailto:lakshmana.k@northeastern.edu">Email<br><br>👋 About Me<br><br>I’m a **Software Engineer with 2+ years of experience** building **production-grade backend and AI systems** across cloud and on-prem environments. My work focuses on **scalable distributed systems**, **automation**, and **reliable data & ML pipelines**.<br><br>I’ve shipped systems handling **high-throughput workloads**, designed **GenAI applications from PoC to production**, and improved **observability, reliability, and deployment workflows** using modern cloud-native tooling.<br><br>Currently pursuing my **MS in Software Engineering Systems at Northeastern University (Boston)** and actively seeking **Software Engineer / Backend / GenAI roles**.<br><br>🧠 Engineering Focus<br>-Focusing on software engineering roles<br>- Designing **scalable  systems** and microservices<br>- Building **GenAI & RAG pipelines** with low-latency inference<br>- Automating **cloud infrastructure & CI/CD**<br>- Improving **observability, reliability, and fault tolerance**<br>- Writing maintainable, production-ready code<br><br> 🛠 Tech Stack<br><br>**Languages**  <br>Python, Go, Java, JavaScript, C++, SQL, Bash<br><br>**Backend & Systems**  <br>Node.js, Express.js, REST APIs, Microservices, Linux (Ubuntu), Kafka<br><br>**AI / ML**  <br>LangChain, OpenAI API, Hugging Face Transformers, FAISS, RAG, Scikit-learn, PyTorch<br><br>**Cloud & DevOps**  <br>AWS (EC2, S3, IAM, CloudWatch), Docker, Kubernetes, CI/CD Pipelines<br><br>**Databases & Tools**  <br>PostgreSQL, MySQL, MongoDB, Redis, Git, GitHub, Postman<br><br>**Frontend (when needed)**  <br>React, Next.js, Tailwind CSS, HTML, CSS<br><br>💼 Professional Experience<br><br>**Cloud Computing Engineer — Acmegrade**  <br>- Designed and deployed **automated AWS data ingestion pipelines**, reducing manual effort by ~30%<br>- Built **containerized backend services** with Docker and CI/CD for multi-environment deployments<br>- Implemented **CloudWatch monitoring and alerting**, improving production observability<br>- Supported production infrastructure through scripted automation and logging<br>- Collaborated on backend architecture reviews to identify scaling and reliability risks<br><br>**Machine Learning Engineer — Tech Fortune**  <br>- Built **end-to-end ML pipelines** for ingestion, feature engineering, training, and evaluation<br>- Consolidated heterogeneous data sources for reliable downstream analytics<br>- Established **version-controlled ML workflows** supporting continuous retraining<br>- Built monitoring dashboards to track model performance and system behavior over time<br><br> 🚀 Featured Projects<br><br>🧠 Jesse Livermore GenAI Mentor Bot<br>**GenAI RAG System + Strategy Backtesting Engine**<br><br>**Tech:** Python, Streamlit, FAISS, MiniLM, FLAN-T5, Pandas, NumPy  <br>- Built a **Retrieval-Augmented Generation (RAG)** chatbot trained on **624 curated Q&A records**<br>- Implemented **vector-based retrieval** with FAISS and persona-aware generation<br>- Designed **low-latency backend pipelines** for retrieval, ranking, and response generation<br>- Integrated **real-time analytics and backtesting**, achieving ~**3× strategy performance** vs baseline<br>- Modular GenAI backend with independently deployable services<br><br>🔗 Repo: https://github.com/Krupa-lakshmana/GenAI-Mentor-Bot<br><br> ⚙️ Distributed Factory Automation Backend<br>**Real-Time Distributed Systems for Industrial Automation**<br><br>**Tech:** Go, Kubernetes, Kafka  <br>- Designed a **Go-based distributed backend** for real-time PLC communication<br>- Built **Kafka streaming pipelines** for fault-tolerant, low-latency processing<br>- Implemented **TCP/IP device-to-server interfaces** for reliable on-prem ↔ cloud communication<br><br>✋ Gesture-Powered Media Controller<br>**Real-Time Computer Vision System**<br><br>**Tech:** Python, OpenCV, C++  <br>- Built a real-time gesture recognition system for hands-free media control<br>- Added **test automation, structured error handling**, and Linux compatibility<br>- Improved robustness using **multithreading, calibration, and lighting normalization**<br><br>🔗 Repo: https://github.com/Krupa-lakshmana/Gesture-Powered-Media-Controller<br><br> <br> 📚 Education<br><br>**Master’s in Software Engineering Systems**  <br>Northeastern University, Boston, MA — *GPA: 3.6 / 4.0*<br><br>**Bachelor of Engineering in AI & ML**  <br>VTU / DBIT, Bangalore, India — *GPA: 3.8 / 4.0*<br><br> 📜 Certifications<br><br>- AWS Certified Developer – Associate  <br>- DeepLearning.AI — Generative AI Specialization  <br>- Google Data Analytics Professional Certificate  <br><br><br><br>🤝 Let’s Connect<br><br>📍 Boston, MA  <br>📧 Email: lakshmana.k@northeastern.edu  <br>💼 LinkedIn: https://www.linkedin.com/in/krupa-lakshmana-a420a225b/  <br>🌐 Portfolio: https://krupa-portfolio.vercel.app/<br>
+<br>🔎 Software Engineer | AIML • GenAI • Cloud Systems<br>
+🎓 MS in Software Engineering Systems @ Northeastern University (Boston)<br>
+<br>💼 LinkedIn "https://www.linkedin.com/in/krupa-lakshmana-a420a225b/"><br>
+🌐 Portfolio "https://krupa-portfolio.vercel.app/"><br>
+📧 Email "mailto:lakshmana.k@northeastern.edu"><br><br>
+
+👋 About Me<br>
+<br>I’m a **Software Engineer with 2+ years of experience** building **production-grade backend and AI systems** across cloud and on-prem environments. My work focuses on **scalable distributed systems**, **automation**, and **reliable data & ML pipelines**.<br>
+<br>I’ve shipped systems handling **high-throughput workloads**, designed **GenAI applications from PoC to production**, and improved **observability, reliability, and deployment workflows** using modern cloud-native tooling.<br>
+<br>Currently pursuing my **MS in Software Engineering Systems at Northeastern University (Boston)** and actively seeking **Software Engineer / Backend / GenAI roles**.<br><br>
+🧠 Engineering Focus<br>
+- Focusing on **software engineering** roles<br>
+- Designing **scalable  systems** and microservices<br>
+- Building **GenAI & RAG pipelines** with low-latency inference<br>
+- Automating **cloud infrastructure & CI/CD**<br>
+- Improving **observability, reliability, and fault tolerance**<br>
+- Writing **maintainable, production-ready** code<br><br>
+
+🛠 Tech Stack<br>
+<br>**Languages**  <br>
+Python, Go, Java, JavaScript, C++, SQL, Bash<br>
+<br>**Backend & Systems**  <br>
+Node.js, Express.js, REST APIs, Microservices, Linux (Ubuntu), Kafka<br>
+<br>**AI / ML**  <br>
+LangChain, OpenAI API, Hugging Face Transformers, FAISS, RAG, Scikit-learn, PyTorch<br>
+<br>**Cloud & DevOps**  <br>
+AWS (EC2, S3, IAM, CloudWatch), Docker, Kubernetes, CI/CD Pipelines<br>
+<br>**Databases & Tools**  <br>
+PostgreSQL, MySQL, MongoDB, Redis, Git, GitHub, Postman<br>
+<br>**Frontend (when needed)**  <br>
+React, Next.js, Tailwind CSS, HTML, CSS<br>
+
+<br>💼 Professional Experience<br>
+<br>**Cloud Computing Engineer — Acmegrade**  <br>
+- Designed and deployed **automated AWS data ingestion pipelines**, reducing manual effort by ~30%<br>
+- Built **containerized backend services** with Docker and CI/CD for multi-environment deployments<br>
+- Implemented **CloudWatch monitoring and alerting**, improving production observability<br>
+- Supported production infrastructure through scripted automation and logging<br>
+- Collaborated on backend architecture reviews to identify scaling and reliability risks<br>
+
+<br>**Machine Learning Engineer — Tech Fortune**  <br>
+- Built **end-to-end ML pipelines** for ingestion, feature engineering, training, and evaluation<br>
+- Consolidated heterogeneous data sources for reliable downstream analytics<br>
+- Established **version-controlled ML workflows** supporting continuous retraining<br>
+- Built monitoring dashboards to track model performance and system behavior over time<br>
+
+<br> 🚀 Featured Projects<br><br>
+🧠 Jesse Livermore GenAI Mentor Bot<br>**GenAI RAG System + Strategy Backtesting Engine**<br>
+<br>**Tech:** Python, Streamlit, FAISS, MiniLM, FLAN-T5, Pandas, NumPy  <br>
+- Built a **Retrieval-Augmented Generation (RAG)** chatbot trained on **624 curated Q&A records**<br>
+- Implemented **vector-based retrieval** with FAISS and persona-aware generation<br>- Designed **low-latency backend pipelines** for retrieval, ranking, and response generation<br>
+- Integrated **real-time analytics and backtesting**, achieving ~**3× strategy performance** vs baseline<br>
+- Modular GenAI backend with independently deployable services<br>
+<br>🔗 Repo: https://github.com/Krupa-lakshmana/GenAI-Mentor-Bot<br><br>
+
+⚙️ Distributed Factory Automation Backend<br>**Real-Time Distributed Systems for Industrial Automation**<br>
+<br>**Tech:** Go, Kubernetes, Kafka  <br>
+- Designed a **Go-based distributed backend** for real-time PLC communication<br>
+- Built **Kafka streaming pipelines** for fault-tolerant, low-latency processing<br>
+- Implemented **TCP/IP device-to-server interfaces** for reliable on-prem ↔ cloud communication<br><br>
+
+✋ Gesture-Powered Media Controller<br>**Real-Time Computer Vision System**<br>
+<br>**Tech:** Python, OpenCV, C++  <br>
+- Built a real-time gesture recognition system for hands-free media control<br>
+- Added **test automation, structured error handling**, and Linux compatibility<br>
+- Improved robustness using **multithreading, calibration, and lighting normalization**<br>
+<br>🔗 Repo: https://github.com/Krupa-lakshmana/Gesture-Powered-Media-Controller<br><br> <br>
+
+📚 Education<br>
+<br>**Master’s in Software Engineering Systems**  <br>
+Northeastern University, Boston, MA — *GPA: 3.6 / 4.0*<br>
+<br>**Bachelor of Engineering in AI & ML**  <br>
+VTU / DBIT, Bangalore, India — *GPA: 3.8 / 4.0*<br>
+
+<br> 📜 Certifications<br><br>
+- AWS Certified Developer – Associate  <br>
+- DeepLearning.AI — Generative AI Specialization  <br>
+- Google Data Analytics Professional Certificate  <br><br><br>
+
+<br>🤝 Let’s Connect<br><br>
+📍 Boston, MA  <br>
+📧 Email: lakshmana.k@northeastern.edu  <br>
+💼 LinkedIn: https://www.linkedin.com/in/krupa-lakshmana-a420a225b/  <br>
+🌐 Portfolio: https://krupa-portfolio.vercel.app/<br>
 
 
 ## 🌐 Socials:
