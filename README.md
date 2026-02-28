@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Krupa Lakshmana
 
-### Backend Engineer · GenAI Systems · Cloud & DevOps
+### Software Engineer | Backend · GenAI · Cloud Systems
 *Building distributed systems that are observable, fault-tolerant, and ready for production.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krupa-lakshmana-a420a225b/)
