@@ -1,135 +1,201 @@
+<div align="center">
+
 # 👩🏻‍💻 Krupa Lakshmana
-**Engineering with curiosity, clarity, and scale**<br>
-<br>🔎 Software Engineer | AIML • GenAI • Cloud Systems<br>
-🎓 MS in Software Engineering Systems @ Northeastern University, Boston<br>
-<br>💼 LinkedIn "[https://www.linkedin.com/in/krupa-lakshmana-a420a225b/](https://www.linkedin.com/in/krupa-lakshmana-a420a225b/)"><br>
-🌐 Portfolio "[https://krupa-portfolio.vercel.app/](https://krupa-portfolio.vercel.app/)"><br>
-📧 Email "mailto:lakshmana.k@northeastern.edu"><br><br>
 
-**👋 About Me**<br>
-<br>I’m a **Software Engineer with 2+ years of experience** building **production-grade backend and AI systems** across cloud and on-prem environments. My work focuses on **scalable distributed systems**, **automation**, and **reliable data & ML pipelines**.<br>
-<br>I’ve shipped systems handling **high-throughput workloads**, designed **GenAI applications from PoC to production**, and improved **observability, reliability, and deployment workflows** using modern cloud-native tooling.<br>
-<br>Currently pursuing my **MS in Software Engineering Systems at Northeastern University (Boston)** and actively seeking **full-time Software Engineer / Backend / GenAI roles**.<br><br>
-🧠 Engineering Focus<br>
-- Focusing on **software engineering** roles<br>
-- Designing **scalable  systems** and microservices<br>
-- Building **GenAI & RAG pipelines** with low-latency inference<br>
-- Automating **cloud infrastructure & CI/CD**<br>
-- Improving **observability, reliability, and fault tolerance**<br>
-- Writing **maintainable, production-ready** code<br><br>
+### Backend Engineer · GenAI Systems · Cloud & DevOps
+*Building distributed systems that are observable, fault-tolerant, and ready for production.*
 
-<br>**💼 Professional Experience**<br>
-<br>**Cloud Computing Engineer — Acmegrade**  <br>
-- Designed and deployed **automated AWS data ingestion pipelines**, reducing manual effort by ~30%<br>
-- Built **containerized backend services** with Docker and CI/CD for multi-environment deployments<br>
-- Implemented **CloudWatch monitoring and alerting**, improving production observability<br>
-- Supported production infrastructure through scripted automation and logging<br>
-- Collaborated on backend architecture reviews to identify scaling and reliability risks<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krupa-lakshmana-a420a225b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://krupa-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmana.k@northeastern.edu)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
-<br>**Machine Learning Engineer — Tech Fortune**  <br>
-- Built **end-to-end ML pipelines** for ingestion, feature engineering, training, and evaluation<br>
-- Consolidated heterogeneous data sources for reliable downstream analytics<br>
-- Established **version-controlled ML workflows** supporting continuous retraining<br>
-- Built monitoring dashboards to track model performance and system behavior over time<br><br>
+📍 Boston, MA &nbsp;·&nbsp; 🟢 **Open to full-time roles — Backend / GenAI / Cloud Engineering**
 
+</div>
 
-**🛠 Tech Stack**<br>
-**🧑‍💻 Programming Languages**<br>
+---
+
+## 👋 About Me
+
+I'm a **Software Engineer with 2+ years of experience** designing and shipping **production-grade backend systems, GenAI pipelines, and cloud-native infrastructure** — across both cloud and on-prem environments.
+
+My work lives at the intersection of **distributed systems** and **applied AI**: architecting services that handle high-throughput workloads, building RAG pipelines that go beyond PoC, and hardening deployments with real observability — not just dashboards.
+
+**What I bring to a team:**
+- 🏗️ **Systems thinking** — I design for failure modes, not just happy paths
+- 📦 **End-to-end ownership** — from schema design and API contracts to CI/CD and production monitoring
+- 🤖 **Applied GenAI** — RAG architecture, vector retrieval, LLM inference pipelines with latency constraints
+- ☁️ **Cloud fluency** — AWS, Kubernetes, Docker, GitHub Actions in real production contexts
+
+> Currently completing my **MS in Software Engineering Systems @ Northeastern University (Boston)** — GPA: 3.6/4.0
+
+---
+
+## 🛠️ Tech Stack
+
+**🧑‍💻 Languages**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<br>**🧠 AI / Machine Learning**<br>
+
+**⚙️ Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apache-kafka)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+
+**🧠 AI / ML & GenAI**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-<br>**🗄 Databases & Data**<br>
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
-<br>**☁️ Cloud & DevOps**<br>
+
+**☁️ Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-<br>**⚙️ Backend & APIs**<br>
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apache-kafka)
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-<br>**🎨 Frontend & UI**<br>
+
+**🗄️ Databases**
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite)
+
+**🎨 Frontend** *(supporting capability)*
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![SASS](https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-<br>**🧪 Testing, Tooling & Productivity**<br>
+
+**🧪 Tooling**
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)<br>
-
-
-
-<br> **🚀 Featured Projects**<br><br>
-🧠 Jesse Livermore GenAI Mentor Bot<br>**GenAI RAG System + Strategy Backtesting Engine**<br>
-<br>**Tech:** Python, Streamlit, FAISS, MiniLM, FLAN-T5, Pandas, NumPy  <br>
-- Built a **Retrieval-Augmented Generation (RAG)** chatbot trained on **624 curated Q&A records**<br>
-- Implemented **vector-based retrieval** with FAISS and persona-aware generation<br>
-- Designed **low-latency backend pipelines** for retrieval, ranking, and response generation<br>
-- Integrated **real-time analytics and backtesting**, achieving ~**3× strategy performance** vs baseline<br>
-- Modular GenAI backend with independently deployable services<br>
-<br>🔗 Repo: https://github.com/Krupa-lakshmana/GenAI-Mentor-Bot<br><br>
-
-⚙️ Distributed Factory Automation Backend<br>**Real-Time Distributed Systems for Industrial Automation**<br>
-<br>**Tech:** Go, Kubernetes, Kafka  <br>
-- Designed a **Go-based distributed backend** for real-time PLC communication<br>
-- Built **Kafka streaming pipelines** for fault-tolerant, low-latency processing<br>
-- Implemented **TCP/IP device-to-server interfaces** for reliable on-prem ↔ cloud communication<br><br>
-
-✋ Gesture-Powered Media Controller<br>**Real-Time Computer Vision System**<br>
-<br>**Tech:** Python, OpenCV, C++  <br>
-- Built a real-time gesture recognition system for hands-free media control<br>
-- Added **test automation, structured error handling**, and Linux compatibility<br>
-- Improved robustness using **multithreading, calibration, and lighting normalization**<br>
-<br>🔗 Repo: https://github.com/Krupa-lakshmana/Gesture-Powered-Media-Controller<br><br> <br>
-
-**📚 Education**<br>
-<br>**Master’s in Software Engineering Systems**  <br>
-Northeastern University, Boston, MA — *GPA: 3.6 / 4.0*<br>
-<br>**Bachelor of Engineering in AI & ML**  <br>
-VTU / DBIT, Bangalore, India — *GPA: 3.8 / 4.0*<br>
-
-<br>**📜 Certifications**<br><br>
-- AWS Certified Developer – Associate  <br>
-- DeepLearning.AI — Generative AI Specialization  <br>
-- Google Data Analytics Professional Certificate  <br><br><br>
-
-<br>**🤝 Let’s Connect**<br><br>
-📍 Boston, MA  <br>
-📧 Email: lakshmana.k@northeastern.edu  <br>
-💼 LinkedIn: https://www.linkedin.com/in/krupa-lakshmana-a420a225b/  <br>
-🌐 Portfolio: https://krupa-portfolio.vercel.app/<br>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krupa-lakshmana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krupa-lakshmana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa-lakshmana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
+
+## 💼 Professional Experience
+
+### ☁️ Cloud Computing Engineer — Acmegrade
+`AWS` `Docker` `CI/CD` `CloudWatch` `Python`
+
+- Engineered **automated AWS data ingestion pipelines** that cut manual operational effort by **~30%** — reducing human-in-the-loop bottlenecks across the data flow
+- Built and deployed **containerized backend services** with Docker, backed by full CI/CD pipelines for consistent, repeatable multi-environment deployments
+- Implemented **CloudWatch monitoring and structured alerting**, giving the team real-time production visibility and faster mean-time-to-detection on incidents
+- Scripted infrastructure automation and logging workflows to reduce operational toil and standardize deployment processes
+- Participated in backend architecture reviews, proactively surfacing **scaling and reliability risks** before they reached production
+
+### 🤖 Machine Learning Engineer — Tech Fortune
+`Python` `PyTorch` `TensorFlow` `Pandas` `NumPy`
+
+- Architected **end-to-end ML pipelines** spanning raw data ingestion, feature engineering, model training, and automated evaluation — with production deployment in mind throughout
+- Unified heterogeneous upstream data sources into a consistent, reliable data layer, eliminating downstream inconsistencies in analytics and model training
+- Established **version-controlled ML workflows** with continuous retraining triggers, cutting model staleness and keeping production predictions current
+- Built behavioral monitoring dashboards to track model performance drift over time, enabling proactive retraining before quality degraded in production
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Jesse Livermore GenAI Mentor Bot](https://github.com/Krupa-lakshmana/GenAI-Mentor-Bot)
+**GenAI RAG System + Strategy Backtesting Engine**
+`Python` `Streamlit` `FAISS` `MiniLM` `FLAN-T5` `Pandas` `NumPy`
+
+A production-style RAG chatbot trained on **624 curated Q&A records** — built with a modular, independently deployable backend where each service (retrieval, ranking, generation, backtesting) can scale on its own.
+
+- Implemented **FAISS-backed vector retrieval** with persona-aware generation for contextually grounded, role-specific answers
+- Designed **low-latency retrieval and ranking pipelines** optimized for response generation under real-time latency constraints
+- Integrated a **real-time backtesting engine** achieving ~**3× strategy performance improvement** over the rule-based baseline
+- Architected for extensibility: swap retrieval models, swap LLMs, add new personas — without rewiring the system
+
+---
+
+### ⚙️ Distributed Factory Automation Backend
+**Real-Time Distributed Systems for Industrial Automation**
+`Go` `Kubernetes` `Apache Kafka`
+
+A fault-tolerant distributed backend engineered for real-time PLC communication in industrial environments — where dropped events and downtime are not acceptable failure modes.
+
+- Designed a **Go-based distributed backend** meeting sub-second latency requirements for real-time factory device communication
+- Built **Kafka streaming pipelines** for fault-tolerant, ordered event processing across distributed factory nodes
+- Implemented **TCP/IP device-to-server interfaces** with reconnection logic for reliable on-prem ↔ cloud data flow
+
+---
+
+### 👋 [Gesture-Powered Media Controller](https://github.com/Krupa-lakshmana/Gesture-Powered-Media-Controller)
+**Real-Time Computer Vision System**
+`Python` `OpenCV` `C++`
+
+A real-time gesture recognition engine for hands-free media control, engineered to be robust across variable lighting conditions and hardware setups — not just demo environments.
+
+- Built a multithreaded gesture pipeline with **calibration routines and lighting normalization**, making the system reliable outside of controlled conditions
+- Added **structured error handling and automated tests** covering Linux and macOS environments for deployment-grade reliability
+- Achieved consistent recognition accuracy through continuous calibration feedback loops and systematic edge-case coverage
+
+---
+
+## 📚 Education
+
+🎓 **Master's in Software Engineering Systems** — Northeastern University, Boston, MA
+*GPA: 3.6 / 4.0*
+
+🎓 **Bachelor of Engineering in AI & ML** — VTU / DBIT, Bangalore, India
+*GPA: 3.8 / 4.0*
+
+---
+
+## 📜 Certifications
+
+- 🟡 **AWS Certified Developer – Associate**
+- 🤖 **DeepLearning.AI — Generative AI Specialization**
+- 📊 **Google Data Analytics Professional Certificate**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Krupa-lakshmana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Krupa-lakshmana&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa-lakshmana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=Krupa-lakshmana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **full-time Backend / GenAI / Cloud Engineering roles**. If you're building systems that need to be fast, reliable, and intelligent — let's talk.
+
+📧 [lakshmana.k@northeastern.edu](mailto:lakshmana.k@northeastern.edu) &nbsp;·&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/krupa-lakshmana-a420a225b/) &nbsp;·&nbsp;
+🌐 [Portfolio](https://krupa-portfolio.vercel.app/)
+
+---
+
+<div align="center"><i>"Engineering with curiosity, clarity, and scale."</i></div>
 
