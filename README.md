@@ -97,7 +97,7 @@ My work lives at the intersection of **distributed systems** and **applied AI**:
 
 ## 💼 Professional Experience
 
-### ☁️ Cloud Computing Engineer — Acmegrade
+### ☁️ Cloud Software Engineer — Acmegrade
 `AWS` `Docker` `CI/CD` `CloudWatch` `Python`
 
 - Engineered **automated AWS data ingestion pipelines** that cut manual operational effort by **~30%** — reducing human-in-the-loop bottlenecks across the data flow
