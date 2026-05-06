@@ -18,9 +18,9 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineer with 2+ years of experience** designing and shipping **production-grade backend systems, GenAI pipelines, and cloud-native infrastructure** — across both cloud and on-prem environments.
+I'm a **Software Engineer with 2+ years of experience** designing and shipping **production-grade backend systems, GenAI pipelines, and cloud-native infrastructure** across both cloud and on-prem environments.
 
-My work lives at the intersection of **distributed systems** and **applied AI**: architecting services that handle high-throughput workloads, building RAG pipelines that go beyond PoC, and hardening deployments with real observability — not just dashboards.
+My work lives at the intersection of **distributed systems** and **applied AI**: architecting services that handle high-throughput workloads, building RAG pipelines that go beyond PoC, and hardening deployments with real observability, not just dashboards.
 
 **What I bring to a team:**
 - 🏗️ **Systems thinking** — I design for failure modes, not just happy paths
@@ -98,21 +98,20 @@ My work lives at the intersection of **distributed systems** and **applied AI**:
 ## 💼 Professional Experience
 
 ### ☁️ Cloud Software Engineer — Acmegrade
-`AWS` `Docker` `CI/CD` `CloudWatch` `Python`
+`AWS` `Docker` `Kubernetes` `CI/CD` `Python`
 
-- Engineered **automated AWS data ingestion pipelines** that cut manual operational effort by **~30%** — reducing human-in-the-loop bottlenecks across the data flow
-- Built and deployed **containerized backend services** with Docker, backed by full CI/CD pipelines for consistent, repeatable multi-environment deployments
-- Implemented **CloudWatch monitoring and structured alerting**, giving the team real-time production visibility and faster mean-time-to-detection on incidents
-- Scripted infrastructure automation and logging workflows to reduce operational toil and standardize deployment processes
-- Participated in backend architecture reviews, proactively surfacing **scaling and reliability risks** before they reached production
+- Reduced average API latency from **220ms to 150ms** by profiling the Python-based data ingestion backend, introducing **multithreading** in bottleneck modules, and optimizing I/O-heavy transformation steps
+- Built a data ingestion backend in Python that collected, validated, and transformed **2–5GB of text documents and log data daily** from external sources, feeding automated ML training pipelines used by a team of ~8 data scientists
+- Cut mean time to resolution from **multi-day investigations to under several hours** by building centralized logging, service health checks, and real-time monitoring dashboards from scratch
+- Containerized services with **Docker**, deployed on **Kubernetes** with autoscaling, and built CI/CD pipelines that **cut deployment time by 40%** with safe incremental rollouts
 
 ### 🤖 Machine Learning Engineer — Tech Fortune
 `Python` `PyTorch` `TensorFlow` `Pandas` `NumPy`
 
-- Architected **end-to-end ML pipelines** spanning raw data ingestion, feature engineering, model training, and automated evaluation — with production deployment in mind throughout
-- Unified heterogeneous upstream data sources into a consistent, reliable data layer, eliminating downstream inconsistencies in analytics and model training
-- Established **version-controlled ML workflows** with continuous retraining triggers, cutting model staleness and keeping production predictions current
-- Built behavioral monitoring dashboards to track model performance drift over time, enabling proactive retraining before quality degraded in production
+- Broke a monolithic ML pipeline into **independently deployable services** for ingestion, embedding generation, inference, and evaluation — enabling each to scale and fail independently
+- Operated a low-latency inference backend that served ML model predictions to an internal HR analytics platform, handling **100+ concurrent requests with sub-200ms response time**
+- Reduced pipeline failure rate by **25%** by refactoring the ingestion-to-inference pipeline with structured error handling, retry logic, and fault isolation between services
+- Created production observability dashboards tracking **P50/P95/P99 latency** and error rates across services, enabling the team to catch regressions before they reached users
 
 ---
 
@@ -141,6 +140,18 @@ A production-style RAG chatbot trained on **624 curated Q&A records** — built 
 - Designed **low-latency retrieval and ranking pipelines** optimized for response generation under real-time latency constraints
 - Integrated a **real-time backtesting engine** achieving ~**3× strategy performance improvement** over the rule-based baseline
 - Architected for extensibility: swap retrieval models, swap LLMs, add new personas — without rewiring the system
+
+---
+
+### ☁️ Cloud-Native Web Application Platform
+**Infrastructure-as-Code REST API Platform on AWS**
+`AWS` `Node.js` `Terraform` `PostgreSQL` `GitHub Actions`
+
+A fully automated cloud-native REST API platform deployed on AWS using Terraform for reproducible infrastructure with performance-tuned database queries and zero-downtime deployment pipelines.
+
+- Architected and deployed a **REST API platform on AWS** using **Terraform** for infrastructure-as-code, provisioning VPC, ALB, EC2, and RDS with fully reproducible deployments
+- Reduced **P95 query latency by 30%** through PostgreSQL indexing and execution plan tuning under concurrent load
+- Implemented **CI/CD with GitHub Actions** and blue/green deployments for zero-downtime releases
 
 ---
 
