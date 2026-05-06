@@ -100,18 +100,18 @@ My work lives at the intersection of **distributed systems** and **applied AI**:
 ### ☁️ Software Engineer — Acmegrade
 `AWS` `Docker` `Kubernetes` `CI/CD` `Python`
 
-- Reduced average API latency from **220ms to 150ms** by profiling the Python-based data ingestion backend, introducing **multithreading** in bottleneck modules, and optimizing I/O-heavy transformation steps
-- Built a data ingestion backend in Python that collected, validated, and transformed **2–5GB of text documents and log data daily** from external sources, feeding automated ML training pipelines used by a team of ~8 data scientists
-- Cut mean time to resolution from **multi-day investigations to under several hours** by building centralized logging, service health checks, and real-time monitoring dashboards from scratch
-- Containerized services with **Docker**, deployed on **Kubernetes** with autoscaling, and built CI/CD pipelines that **cut deployment time by 40%** with safe incremental rollouts
+Built and owned a data ingestion backend that collected, validated, and transformed ~2–5GB of text documents and log data daily from external sources feeding automated ML training pipelines used by a team of ~8 data scientists.
+- Reduced average API latency from ~220ms to 150ms by profiling the Python backend, introducing multithreading, and optimizing I/O-heavy transformation steps
+- Cut mean time to resolution from multi-day investigations to under several hours by building centralized logging, service health checks, and monitoring dashboards from scratch
+- Containerized services with Docker, deployed on Kubernetes with autoscaling, and built CI/CD pipelines that cut deployment time by ~40%
 
 ### 🤖 Software Engineer — Tech Fortune
 `Python` `PyTorch` `TensorFlow` `Pandas` `NumPy`
 
-- Broke a monolithic ML pipeline into **independently deployable services** for ingestion, embedding generation, inference, and evaluation — enabling each to scale and fail independently
-- Operated a low-latency inference backend that served ML model predictions to an internal HR analytics platform, handling **100+ concurrent requests with sub-200ms response time**
-- Reduced pipeline failure rate by **25%** by refactoring the ingestion-to-inference pipeline with structured error handling, retry logic, and fault isolation between services
-- Created production observability dashboards tracking **P50/P95/P99 latency** and error rates across services, enabling the team to catch regressions before they reached users
+Owned the backend inference system that served ML model predictions to an internal HR analytics platform used to match candidates to open roles handling ~100+ concurrent requests at sub-200ms response time.
+- Broke a monolithic ML pipeline into independently deployable services for ingestion, embedding generation, inference, and evaluation enabling each to scale and fail independently
+- Reduced pipeline failure rate by ~25% by implementing structured error handling, retry logic, and fault isolation between services
+- Created production observability dashboards tracking P50/P95/P99 latency and error rates, catching regressions before they reached users
 
 ---
 
@@ -159,7 +159,7 @@ A fully automated cloud-native REST API platform deployed on AWS using Terraform
 **Real-Time Distributed Systems for Industrial Automation**
 `Go` `Kubernetes` `Apache Kafka`
 
-A fault-tolerant distributed backend engineered for real-time PLC communication in industrial environments — where dropped events and downtime are not acceptable failure modes.
+A fault-tolerant distributed backend engineered for real-time PLC communication in industrial environments, where dropped events and downtime are not acceptable failure modes.
 
 - Designed a **Go-based distributed backend** meeting sub-second latency requirements for real-time factory device communication
 - Built **Kafka streaming pipelines** for fault-tolerant, ordered event processing across distributed factory nodes
