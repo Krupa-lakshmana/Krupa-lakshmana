@@ -97,7 +97,7 @@ My work lives at the intersection of **distributed systems** and **applied AI**:
 
 ## 💼 Professional Experience
 
-### ☁️ Cloud Software Engineer — Acmegrade
+### ☁️ Software Engineer — Acmegrade
 `AWS` `Docker` `Kubernetes` `CI/CD` `Python`
 
 - Reduced average API latency from **220ms to 150ms** by profiling the Python-based data ingestion backend, introducing **multithreading** in bottleneck modules, and optimizing I/O-heavy transformation steps
@@ -105,7 +105,7 @@ My work lives at the intersection of **distributed systems** and **applied AI**:
 - Cut mean time to resolution from **multi-day investigations to under several hours** by building centralized logging, service health checks, and real-time monitoring dashboards from scratch
 - Containerized services with **Docker**, deployed on **Kubernetes** with autoscaling, and built CI/CD pipelines that **cut deployment time by 40%** with safe incremental rollouts
 
-### 🤖 Machine Learning Engineer — Tech Fortune
+### 🤖 Software Engineer — Tech Fortune
 `Python` `PyTorch` `TensorFlow` `Pandas` `NumPy`
 
 - Broke a monolithic ML pipeline into **independently deployable services** for ingestion, embedding generation, inference, and evaluation — enabling each to scale and fail independently
