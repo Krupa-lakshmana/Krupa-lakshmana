@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krupa-lakshmana-a420a225b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://krupa-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmana.k@northeastern.edu)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/Krupa-lakshmana/Krupa-lakshmana/blob/main/Krupa_Lakshmana_Software_Engineer_Backend.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/Krupa-lakshmana/Krupa-lakshmana/blob/main/Krupa_Lakshmana_Software_Development_Engineer (1).pdf)
 
 📍 Boston, MA &nbsp;·&nbsp; 🟢 **Open to full-time roles — Backend / GenAI / Cloud Engineering**
 
