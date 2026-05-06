@@ -118,6 +118,19 @@ My work lives at the intersection of **distributed systems** and **applied AI**:
 
 ## 🚀 Featured Projects
 
+### 🍽️ [Alimento — AI-Powered Student Meal Planning App](https://github.com/atharva009/alimento)
+**Full-Stack Web Application with AI Meal Intelligence**
+`Python` `Flask` `MongoDB Atlas` `Google Gemini API` `Tailwind CSS` `Vercel` `GitHub Actions`
+
+A production-grade meal planning platform that unifies pantry management, AI-driven nutrition coaching, and social challenges — built for college students who waste food due to poor inventory tracking and unstructured meal planning.
+
+- Designed the **nutrition engine** powering personalized meal recommendations — BMR/TDEE calculations, macro target computation, and a **strategy-based scoring system supporting 16+ diet types** (keto, vegan, high-protein, etc.)
+- Integrated **Google Gemini API** as an AI orchestrator using the Facade pattern, with structured prompt building, retry logic, and JSON response validation to generate **diet-aware meal plans from pantry inventory**
+- Built the **data layer on MongoDB Atlas** across 22+ collections with indexed queries for expiration detection and user-based lookups, wrapped in a Singleton-managed connection pool with graceful offline degradation
+- Deployed on **Vercel with CI/CD via GitHub Actions** running tests on Python 3.11/3.12 and auto-generating API docs with pdoc on every push
+
+---
+
 ### 🧠 [Jesse Livermore GenAI Mentor Bot](https://github.com/Krupa-lakshmana/GenAI-Mentor-Bot)
 **GenAI RAG System + Strategy Backtesting Engine**
 `Python` `Streamlit` `FAISS` `MiniLM` `FLAN-T5` `Pandas` `NumPy`
